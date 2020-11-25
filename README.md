@@ -41,24 +41,26 @@ Para el segundo grupo brindaremos diferentes categorías para poder llegar al pr
 - https://www.potterybarn.com/
 
   Nos gusto la parte del footer como presenta el contenido y las redes. Además la presentación de las imágenes con los productos 
-
-
+  
+  
 
 ## *Integrantes*
 
-- ***Agustina Sánchez Ré***
+
+
+#### *Agustina Sánchez Ré*
 
 Agus, 23 años. Soy estudiante de Ing. Industrial en FIUBA, doy clases de inglés, me gusta la música, los perros, el mate, viajar, leer y aprender cosas nuevas.
 
-- ***Ezequiel Garcia Riveros***
+#### *Ezequiel Garcia Riveros*
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et tincidunt purus, auctor molestie orci. Morbi at bibendum sapien, eu.
+Eze, 29 años.Ingeniero.Me gusta viajar, los desafios y a amo mi perra. Me considero muy responsable y quiero crecer como profesional! 
 
-- ***Matías Quiroga***
+#### *Matías Quiroga*
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et tincidunt purus, auctor molestie orci. Morbi at bibendum sapien, eu.
+  Matias, tengo 19 años.Estudio analista de sistemas en el politecnico y soy de Rosario, me considero una persona honesta y actualmente estoy tratando de aprender más sobre el desarrollo web para lograr impulsar mi carrera profesional en el área.
 
-- ***Ruben Eliett***
+#### *Ruben Eliett*
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc et tincidunt purus, auctor molestie orci. Morbi at bibendum sapien, eu.
+  Rubén. Soy Ingeniero Mecánico, me gusta estudiar todo sobre los mercados financieros, conocer nuevos lugares y aprender constantemente. Desde hace algún tiempo me llamó la atención el desarrollo web, y ahora quiero convertirme en desarrollador Full Stack.
 
